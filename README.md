@@ -1,7 +1,7 @@
 ## :green_book: Описание проекта
 
 Spring Boot приложение Authmock представляет собой заглушку для на нагрузочного тестирования с возможностью устанавливать таймауты, имитирующие задержку ответа сервера.
-Используется для авторизации в банковском приложении <a target="_blank" href="https://github.com/YuliaOrl/standartmock/">*standartmock*</a>.
+Используется для авторизации в банковском приложении <a target="_blank" href="https://github.com/YuliaOrl/standartmock/">*Standartmock*</a>.
 
 ### :computer: Использованные технологии
 
