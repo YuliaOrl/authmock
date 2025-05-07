@@ -1,0 +1,15 @@
+# Сборка
+target/
+build/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
